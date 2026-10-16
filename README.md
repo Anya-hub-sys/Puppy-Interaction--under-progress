@@ -1,9 +1,8 @@
 # Webcam Puppy
 
-A cartoon puppy composited live onto your webcam feed. It reacts to you via
-hand/body tracking (mediapipe) — gets excited when you pet it, stands, sits,
-walks over to you, blinks, breathes, and looks toward you — all rendered from
-layered PNG parts exported out of After Effects. No ML training, no cloud.
+A cartoon puppy composited live onto your webcam feed. It reacts to you via hand/body tracking (mediapipe) — gets excited when you pet it, stands, sits, walks over to you, blinks, breathes, and looks toward you — all rendered from layered PNG parts exported out of After Effects. No ML training, no cloud.
+
+Status: concept and rig/behavior structure are done — walking, sitting, standing, petting reactions, blinking, eye tracking, and breathing all work. Animation polish (timing, easing, natural feel of the sit/blink/walk curves) is still in progress.
 
 ## 1. Requirements
 
